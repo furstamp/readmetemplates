@@ -1,7 +1,10 @@
-# <img width="30" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Gyket 絵 筆
+# <img width="25" height="25" src="https://avatars.githubusercontent.com/u/90540827?s=48&v=4"> Gyket 絵 筆
 
 ~~~kotlin
-public class Gyket 絵 筆 (){
+const Gyket = require('broxa-xd');
+
+public class Gyket() {
+
     var e = "broxa";
  
     var langs = "Some Languages...";
@@ -12,25 +15,14 @@ public class Gyket 絵 筆 (){
 }
 ~~~
 
-## **Linguagens e Ferramentas:**  
+## Linguagens e Ferramentas:
 
-## **GitHub Estatísticas**
+## GitHub Stats & Metrics Insights
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyket&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://metrics.lecoq.io/about/gyket">
+    <img align="center" src="https://image.prntscr.com/image/nNo8ua9nT_Oi5IuB_QgNIA.png" />
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<a href="https://github.com/Gurupreet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyket&show_icons=true&theme=dracula&line_height=27" />
+</a>
