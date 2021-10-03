@@ -1,0 +1,6 @@
+Cada pasta tem sua respectiva ligação com os Templates que estão na pasta [ templates ].
+
+Pasta > 01 = template01.md
+Pasta > 02 = template02.md
+
+etc... 
